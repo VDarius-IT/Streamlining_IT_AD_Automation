@@ -19,7 +19,6 @@ Dieses Repository bietet eine praxisnahe Vorlage für den Einsatz von **PowerShe
 - [Erste Schritte](#️-erste-schritte)
 - [Praxisnahes Workflow-Beispiel](#-praxisnahes-workflow-beispiel)
 - [Mitwirken](#-mitwirken)
-- [Kontakt](#-kontakt)
 - [Lizenz](#-lizenz)
 
 ---
@@ -213,12 +212,6 @@ Beiträge, Issues und Feature-Anfragen sind willkommen! Besuchen Sie gerne die [
 4.  Pushen Sie zum Branch (`git push origin feature/AmazingFeature`)
 5.  Öffnen Sie einen Pull Request
 
-## 📬 Kontakt
-
-Haben Sie Fragen, Feedback oder möchten Sie zusammenarbeiten?
-
-📧 your-email@example.com  
-🔗 [LinkedIn-Profil](https://linkedin.com/in/your-profile)
 
 ## 📜 Lizenz
 
