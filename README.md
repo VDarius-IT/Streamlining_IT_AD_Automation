@@ -19,7 +19,6 @@ This repository provides a real-world blueprint for leveraging **PowerShell Desi
 - [Getting Started](#️-getting-started)
 - [Real-World Workflow Example](#-real-world-workflow-example)
 - [Contributing](#-contributing)
-- [Connect](#-connect)
 - [License](#-license)
 
 ---
@@ -213,12 +212,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## 📬 Connect
-
-Have questions, feedback, or want to collaborate?
-
-📧 your-email@example.com  
-🔗 [LinkedIn Profile](https://linkedin.com/in/your-profile)
 
 ## 📜 License
 
